@@ -1,34 +1,50 @@
-import logo from "./logo.svg";
+import logo from "./arr.svg";
+import aarti from "./photo2.jpg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
+
 import github from "./github.png";
-import menu from "./menu.svg";
-import close from "./close.svg";
+import demo from "./demo.png"
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import holopin from "./holopin.png";
+import hf from "./hf.svg";
+import bny from "./bny.png";
+import clg from "./clg.png";
+import school from "./school.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import crypto from "./project/crypto.jpg";
+import oop from "./project/oop.png";
+import crud from "./project/crud.jpg";
+import dwld from "./project/dwld.jpg";
+import onetomany from "./project/onetomany.jpg";
+import yml from "./project/yml.png";
+
+import trie from "./project/trie.jpg";
+import ds from "./project/ds.jpg";
+import cg from "./project/cg.jpg";
+
+import port_3d from "./project/react.png";
+import jsp from "./project/jsp.png";
+import notes from "./project/notes.png";
+import chitchat from "./project/chitChat.png";
+import react1 from "./project/react1.png";
+
+import be from "./project/mcq.avif";
+import sql from "./project/sql.jpg";
+import mini from "./project/library.png";
+import snl from "./project/snl.jpeg";
 
 export {
   logo,
@@ -37,26 +53,24 @@ export {
   mobile,
   web,
   github,
-  menu,
-  close,
   css,
-  docker,
-  figma,
   git,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
-  redux,
   tailwind,
-  typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  hf,holopin,
+  bny,
+  demo,
+  clg,
+  school,
+  crypto,
+  aarti,
+  oop,crud,dwld,onetomany,yml,
+  trie,ds,cg,
+  port_3d, jsp, chitchat, notes, react1,
+  be,sql, mini, snl,
 };
