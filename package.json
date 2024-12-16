@@ -26,6 +26,7 @@
     "react-router-dom": "^6.18.0",
     "react-tilt": "^1.0.2",
     "react-vertical-timeline-component": "^3.6.0",
+    "sass": "^1.83.0",
     "three": "^0.150.1"
   },
   "devDependencies": {
@@ -34,7 +35,6 @@
     "@vitejs/plugin-react": "^3.1.0",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
-    "sass": "^1.60.0",
     "tailwindcss": "^3.3.5",
     "vite": "^4.2.0"
   }
