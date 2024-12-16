@@ -4,6 +4,15 @@ export default {
   mode: "jit",
   theme: {
     extend: {
+      keyframes: {
+        blink: {
+          '50%': { opacity: '1' },
+          '100%': { opacity: '0' },
+        }
+      },
+      animation: {
+        blink: 'blink 2s infinite',
+      },
       colors: {
         primary: "#050816",
         secondary: "#aaa6c3",
